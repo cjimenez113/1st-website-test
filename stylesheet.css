@@ -1,7 +1,36 @@
-body{
-background-color: #A7CCED;
-}
 .header{
+  background-color:  #4d4dff;
   text-align: center;
- font-family: 'Quicksand', sans-serif;
+  font-family: 'Quicksand', sans-serif;
+  border: black 5px solid ;
+  color: white;
+}
+.summary , .skills , .education , .footer{
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+.school{
+padding-left: 35px;
+}
+.intro{
+  background-color: #001C55;
+  color: white;
+  border: #A6E1FA solid 5px;
+}
+.inter{
+    background-color: #0A2472;
+    color: white;
+    border: #A6E1FA solid 5px;
+}
+.advance{
+    background-color: #00072D;
+    color: white;
+    border: #A6E1FA solid 5px;
+}
+
+.icons{
+  background-color: #0A2472;
+  color: white;
+  border: black solid 5px;
+  text-align: center;
 }
